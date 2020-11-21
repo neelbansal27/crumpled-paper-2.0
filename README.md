@@ -1,1 +1,1 @@
-# crumpled-paper-2.0
+# CP-2
